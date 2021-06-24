@@ -1,0 +1,15 @@
+/Users/Charlie/Projects/code2/code2/bin/Debug/net5.0/code2.deps.json
+/Users/Charlie/Projects/code2/code2/bin/Debug/net5.0/code2.runtimeconfig.json
+/Users/Charlie/Projects/code2/code2/bin/Debug/net5.0/code2.runtimeconfig.dev.json
+/Users/Charlie/Projects/code2/code2/bin/Debug/net5.0/code2.dll
+/Users/Charlie/Projects/code2/code2/bin/Debug/net5.0/ref/code2.dll
+/Users/Charlie/Projects/code2/code2/bin/Debug/net5.0/code2.pdb
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/code2.csproj.AssemblyReference.cache
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/code2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/code2.AssemblyInfoInputs.cache
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/code2.AssemblyInfo.cs
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/code2.csproj.CoreCompileInputs.cache
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/code2.dll
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/ref/code2.dll
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/code2.pdb
+/Users/Charlie/Projects/code2/code2/obj/Debug/net5.0/code2.genruntimeconfig.cache
